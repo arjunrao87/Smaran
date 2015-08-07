@@ -1,3 +1,3 @@
 Project Smaran
 
-Application to be able to create reminders for birthdays and anniversaries.
+Application to create reminders for birthdays and anniversaries.
